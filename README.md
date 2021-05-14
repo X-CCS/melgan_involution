@@ -1,0 +1,2 @@
+# melgan_involution
+基于involution的melgan，更加快速的音频合成方法
